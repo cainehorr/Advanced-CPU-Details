@@ -17,3 +17,5 @@ Jamf Pro Extension Attribute that returns verbose CPU details.
 10. Set **_Input Type_** to ```Script```
 11. Copy/Paste [advanced_CPU_details.sh](advanced_CPU_details.sh) into the script field
 12. Click on the **_Save_** button
+
+![EXAMPLE](Images/Jamf_Pro-Settings-Computer_Management-Extension_Attributes.png)
