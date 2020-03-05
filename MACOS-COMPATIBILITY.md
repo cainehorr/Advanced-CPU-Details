@@ -1,4 +1,4 @@
-[Back to the Front](Advanced-CPU-Details)
+[Back to the Front](/Advanced-CPU-Details)
 
 # macOS Compatibility
 
