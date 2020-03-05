@@ -1,4 +1,4 @@
-[Back to the Front](README.md)
+[Back to the Front](Advanced-CPU-Details)
 
 # macOS Compatibility
 
