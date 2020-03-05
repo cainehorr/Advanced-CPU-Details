@@ -1,5 +1,3 @@
-[Back to the Front](https://github.com/cainehorr/Advanced-CPU-Details)
-
 # macOS Compatibility
 
 - 10.15 - Compatible
