@@ -1,4 +1,4 @@
-[Back to the Front](/Advanced-CPU-Details)
+[Back to the Front](https://github.com/cainehorr/Advanced-CPU-Details)
 
 # macOS Compatibility
 
