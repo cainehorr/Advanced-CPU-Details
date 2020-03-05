@@ -4,7 +4,7 @@ Jamf Pro Extension Attribute that returns verbose CPU details.
 ## EXAMPLE OUTPUT
 ```Intel(R) Core(TM) i7-7920HQ CPU @ 3.10GHz```
 
-## USEAGE
+## CONFIGURATION
 1. Log into your Jamf Pro tenant
 2. Navigate to **_Settings_** (Gear Icon)
 3. Navigate to **_Computer Management_**
@@ -18,4 +18,7 @@ Jamf Pro Extension Attribute that returns verbose CPU details.
 11. Copy/Paste [advanced_CPU_details.sh](advanced_CPU_details.sh) into the script field
 12. Click on the **_Save_** button
 
-![EXAMPLE](Images/Jamf_Pro-Settings-Computer_Management-Extension_Attributes.png)
+![](Images/Jamf_Pro-Settings-Computer_Management-Extension_Attributes.png)
+
+## OUTPUT - COMPUTER RECORD
+![](Images/Jamf_Pro-Computers-Device_Record-Inventory-Hardware.png)
