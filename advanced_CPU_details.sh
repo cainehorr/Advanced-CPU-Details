@@ -19,7 +19,6 @@
 ##
 ##	Version 1.0 - 2020-01-29
 ## 		Created by Caine Hörr
-##		Email: <caine@cainehorr.com>
 ##			* Initial script creation
 ##
 ###############################################################################
